@@ -1,0 +1,9 @@
+.cabecalho {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(17, 107, 107);
+    padding: 20px;
+    background: linear-gradient(68.15deg, #1c565e 16.62%, #8E5D52 85.61%);
+}

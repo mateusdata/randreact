@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@700&display=swap');
+
+.conteudo-centralizado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 3px 6px 10px 6px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+    text-align: center;
+    height: 70vh;
+    width: 90%;
+    font-family: 'Righteous', cursive;
+   
+
+    
+}
+
+.area-botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    color: rgb(179, 19, 19);
+    
+}
+.area-botao:hover {
+    color: red;
+}
+
+button {
+    margin-top: 20px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration: none;
+    border: none;
+    border-radius: 15px;
+    margin-top: 15px;
+    background: #0ac5d4;
+    box-shadow: 0px 3px 6px rgba(119, 119,  199, .1);
+    padding: 10px 15px;
+    outline: none;
+    cursor: pointer;
+    height: 9.5vh;
+    width: 22vh;
+    margin-top: 18px;
+    box-shadow: 3px 6px 50px 6px rgba(14, 13, 13, 0.05);
+}
+button:hover {
+    background: #164144;
+}
+h1 {
+    margin-top: 20px;
+}
+h1:hover {
+    color: rgb(187, 65, 86);
+}
+h3 {
+    font-size: 25px;
+}
